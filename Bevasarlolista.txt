@@ -1,5 +1,5 @@
 Bevásárló lista
 
-kenyér
+kenyer
 tej
-vaj
+tojas
