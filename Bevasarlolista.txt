@@ -2,3 +2,4 @@ Bevásárló lista
 
 kenyér
 tej
+vaj
